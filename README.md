@@ -1,6 +1,11 @@
 # finetune_model_dataset
 Fine-Tunning Model `meta-llama/Llama-3.2-3B` on local Dataset using : LoRA, QLoRA TLR and PEFT..
 
+- Parameter-Efficient Fine-Tuning (PEFT) - 8-bit quantization
+- Transformers Reinforcement Learning (TRL) - 4-bit Quantization
+- LoRA (Low-Rank Adaptation) 
+- QLoRA (Quantized LoRA)
+
 Hardware Requirements : 
 ```
 ALMALINUX VM
